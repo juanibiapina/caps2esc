@@ -78,7 +78,7 @@ int main(void) {
         }
 
         if (input.code == KEY_ESC)
-            input.code = KEY_CAPSLOCK;
+            input.code = KEY_ESC;
         write_event(&input);
     }
 }
