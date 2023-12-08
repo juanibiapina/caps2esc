@@ -1,3 +1,5 @@
+**DEPRECATED**: Use https://github.com/rvaiya/keyd instead
+
 # caps2esc
 
 Remap caps lock to both ctrl (when pressed with another key) and esc (when pressed alone).
